@@ -24,11 +24,8 @@ Pre- trained model files for YOLO V3 dectector has been used from the link below
 
 - `python yolo_od.py [-h] [-c CONFIDENCE] [-t THRESHOLD] image_files [image_files ...]`
 
-### Screenshots
-![Image](/Object%20dection%20using%20image/1.png)
-
-<img src="https://github.com/yash42828/YOLO-object-detection-with-OpenCV/blob/master/Object%20dection%20using%20image/2.png">
-
+### Screenshot
+<img src="https://github.com/rshn1994/Object-Detection-using-YOLO/blob/main/Obj_Det_Img/images/street_YOLO.jpg">
 
 ## Object Detection in Videos
 
@@ -38,7 +35,7 @@ Pre- trained model files for YOLO V3 dectector has been used from the link below
 
 ### Screenshot
 
-<img src="https://github.com/yash42828/YOLO-object-detection-with-OpenCV/blob/master/Object%20detection%20using%20video/car.gif">
+<img src="https://github.com/rshn1994/Object-Detection-using-YOLO/blob/main/Obj_Det_Vid/Videos/car_street_yolo_out_py.avi">
 
 
 
