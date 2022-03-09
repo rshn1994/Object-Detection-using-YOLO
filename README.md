@@ -35,7 +35,7 @@ Pre- trained model files for YOLO V3 dectector has been used from the link below
 
 ### Screenshot
 
-<img src="https://github.com/rshn1994/Object-Detection-using-YOLO/blob/main/Obj_Det_Vid/Videos/car_street_yolo_out_py.gif">
+<img src="https://github.com/rshn1994/Object-Detection-using-YOLO/blob/main/Obj_Det_Vid/Videos/car-street-yolo-out-py.gif">
 
 
 
