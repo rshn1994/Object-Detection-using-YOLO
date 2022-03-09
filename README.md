@@ -5,7 +5,7 @@ Object detection using YOLO
 
 For this project YOLO V3 object descriptor has been used (particularly YOLO trained on the COCO dataset).
 
-The COCO dataset consists of 80 labels, full list of classes that can be detected are mentioned in the lik below 
+The COCO dataset consists of 80 labels, full list of classes that can be detected are mentioned in the link below 
 <a href="https://github.com/pjreddie/darknet/blob/master/data/coco.names" target="_blank"><b>using this link.</b></a>
 
 Pre- trained model files for YOLO V3 dectector has been used from the link below 
