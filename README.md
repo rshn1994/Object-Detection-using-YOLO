@@ -15,7 +15,7 @@ Pre- trained model files for YOLO V3 dectector has been used from <a href="https
 
 - Python Version: `3.8.8`
 - Numpy: `1.19.2`
-- OpenCV: `3.4.16`
+- OpenCV: `3.4.16.59`
 
 ## Object Detection in Images 
 
